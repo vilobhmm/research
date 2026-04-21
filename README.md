@@ -1,4 +1,4 @@
-# Agents, LLM, Generative AI, RAG research
+# Agents, LLM, Generative AI, RAG research paper. implementation and prototypes
 
 ## Phase	File	Key Concepts
 
